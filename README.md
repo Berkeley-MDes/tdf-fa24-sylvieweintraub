@@ -1,3 +1,24 @@
+# Report 1- Week of 8/29 #
+
+This week I used the green laser cutter in Jacobs hall for the first time and had a blast! I signed up for a 30 minute reservation and ended up staying for over 2.5 hours. I started by cutting funky shapes to make earrings, which took quite a few tried to get sizing correct.
+
+<img width="200" alt="First Earring Attempt" src="https://github.com/user-attachments/assets/a0efb044-a066-49d6-9369-456ce39910d1">
+<img width="200" alt="Many Earring Attempts" src="https://github.com/user-attachments/assets/c8adf529-bd5c-4ed8-bec0-810030c7cea7">
+
+Next, I moved on to creating a print for my partner's birthday. I found quickly that printing photos that have enough contrast is difficult and takes a lot of trial and error. The photo on the left was my first attempt with standard etch settings. The right photo is my second and final attempt after I used lightroom to adjust contrast using masks to make the subjects pop and increased the power of the laser cutter etching by 20%. Both prints are ~8x10 inches and took ~30 minutes to print.
+
+<img width="200" alt="Print Attempt 1" src="https://github.com/user-attachments/assets/18f2689d-935d-4eb7-8e01-f66436ef42db">
+<img width="200" alt="Print Attempt 2" src="https://github.com/user-attachments/assets/1debc453-2899-40e3-a4b2-08bdbcd352cb">
+
+Finally, I printed a key chain of my dog. I did not stick around long enough to try again with better contrast setting, but I plan to go back in again and redo this one.
+
+<img width="200" alt="Dog Keychain" src="https://github.com/user-attachments/assets/673369e0-5d47-41a5-a72e-cb5fb9772698">
+<img width="200" alt="Dog Keychain w Dog" src="https://github.com/user-attachments/assets/94706a2a-6a12-45ee-8717-023c7d9a191a">
+
+While cutting the pieces, I had a great time working with and learning from Cody in the maker space about settings, tips and trick, and general best practices of laser cutter use.
+
+
+
 # Hello DES INV 202 Student!
 Welcome to your new GitHub repository! 
 
