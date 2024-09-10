@@ -1,4 +1,20 @@
-# Report 1- Week of 8/29 #
+# Report 2 - Week of 9/5/24 #
+
+Overall, I was challenged this week. Grasshopper and Rhino are tools I have never touched, and the last time I tried modeling in a CAD program was in 2016 🥲. To grow these nex skills, I focused on the following 3 assignments:
+
+  1. Make a diagram of the example phone stand grasshopping file
+  2. Experiment with the example phone stand grasshopping file (adjusting parameters and baking)
+  3. Experiment with generating a new basic grasshopper file
+
+<ins> Make a diagram of the example phone stand grasshopping</ins> 
+
+<ins> Experiment with the example phone stand grasshopping file (adjusting parameters and baking)</ins> 
+
+<ins> Experiment with generating a new basic grasshopper</ins> 
+
+---
+
+# Report 1 - Week of 8/29/24 #
 
 This week I used the green laser cutter in Jacobs hall for the first time and had a blast! I signed up for a 30 minute reservation and ended up staying for over 2.5 hours. I started by cutting funky shapes to make earrings, which took quite a few tried to get sizing correct.
 
