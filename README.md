@@ -7,6 +7,9 @@ Overall, I was challenged this week. Grasshopper and Rhino are tools I have neve
   3. Experiment with generating a new basic grasshopper file
 
 <ins> Make a diagram of the example phone stand grasshopping</ins> 
+This process was very interesting! Going through a process step by step and digesting it enough to reframe is a great way to learn. This (paired with 9/9 class with the grasshopper workshop) has been the first tine grasshopper started to sink in. 
+
+To create this diagram, I had both figjam and the grasshopper up on my screen, and I went step by step in grasshopper
 
 <ins> Experiment with the example phone stand grasshopping file (adjusting parameters and baking)</ins> 
 
