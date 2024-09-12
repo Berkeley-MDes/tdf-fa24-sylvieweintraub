@@ -1,4 +1,4 @@
-# Report 2 - Week of 9/5/24 - I've never touched rhino or grasshopper until today (embarrassing!!)
+# Report 2 - Week of 9/5/24 - I've never touched rhino or grasshopper until this week (embarrassing!!)
 
 Overall, I was challenged this week. Grasshopper and Rhino are tools I have never touched, and the last time I tried modeling in a CAD program was in 2016 🥲. To grow these nex skills, I focused on the following 3 assignments:
 
@@ -56,6 +56,22 @@ I had a fun time with these parameter changes. What was driving me to make these
 <br />
 <br />
 <ins> Experiment with generating a new basic grasshopper</ins> 
+
+This is where I stuggled the most and also grew the most this week. I created a new file with grasshoppping and rhino for the first time! I first went through a tutorial that walked me through creating a new file, but I was much more successful in class during the grasshopper workshop. The file shown below was made based on what we learned in that session.
+
+Grasshopper file:
+<br />
+<img width="200" alt="rhino8" src="https://github.com/user-attachments/assets/d999e36f-ecbc-4bec-95c2-4a2e76c99cba">
+<br />
+<br />
+Baking:
+<br />
+<img width="200" alt="rhino9" src="https://github.com/user-attachments/assets/a3906a9c-141e-4e0d-96b3-b1acf7937208">
+<br />
+<br />
+Rhino model:
+<br />
+<img width="200" alt="rhino10" src="https://github.com/user-attachments/assets/147dcd97-eb14-47c6-9f91-76bb4cbc92d1">
 
 ---
 
