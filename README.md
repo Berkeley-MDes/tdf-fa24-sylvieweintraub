@@ -5,17 +5,53 @@ Overall, I was challenged this week. Grasshopper and Rhino are tools I have neve
   1. Make a diagram of the example phone stand grasshopping file
   2. Experiment with the example phone stand grasshopping file (adjusting parameters and baking)
   3. Experiment with generating a new basic grasshopper file
-
+<br />
+<br />
 <ins> Make a diagram of the example phone stand grasshopping</ins> 
 This process was very interesting! Going through a the grasshopper file step by step and digesting it enough to reframe it was a great way for me to learn. This (paired with the 9/9 class grasshopper workshop) has been the first time grasshopper started to sink in. 
 
 To create this diagram, I had both figjam and the grasshopper up on my screen, and I went step by step in grasshopper, traslating my understadning into figjam. Here it is (double click to see larger)!
 
 <img width="200" alt="Figjam Diagram" src="https://github.com/user-attachments/assets/73fe9a0d-d1ef-4ee9-a9d1-3ebb63cec340">
+<br />
+<br />
+<br />
+<ins> Experiment with the example phone stand file (adjusting parameters and baking)</ins> 
+This was a fun exercise and a great way to play with grasshopper without having any prior experience. Here are all the ways documented I manipulated the file (I did a lot more poking, but at some point taking screen shots seemed redundant).
 
-
-<ins> Experiment with the example phone stand grasshopping file (adjusting parameters and baking)</ins> 
-
+Starting point:
+<br />
+<img width="200" alt="rhino1" src="https://github.com/user-attachments/assets/4ed3e43d-ca42-4fc5-a2ef-b3fc505fa249">
+<br />
+<br />
+Adjusting sphere 1 radius:
+<br />
+<img width="200" alt="rhino2" src="https://github.com/user-attachments/assets/0f1050ad-0656-482c-8930-07055c42d6ef">
+<br />
+<br />
+Adjusting sphere 1 radius some more:
+<br />
+<img width="200" alt="rhino3" src="https://github.com/user-attachments/assets/209a0ad9-2d29-4527-ab52-83952f92bca4">
+<br />
+<br />
+Adjusting sphere 2 center z and cylinder void radius to compensate:
+<br />
+<img width="200" alt="rhino4" src="https://github.com/user-attachments/assets/b91885c5-831e-4a52-b7b8-c5de6db8d5b6">
+<br />
+<br />
+Having fun with unrealistic phone sizes and shapes through grasshopper:
+<br />
+<img width="200" alt="rhino5" src="https://github.com/user-attachments/assets/ae6d418f-23d3-4e3d-9b88-3718715682df">
+<br />
+<img width="200" alt="rhino6" src="https://github.com/user-attachments/assets/617602ce-5db7-4b84-ba1f-196a68f74ef1">
+<br />
+<br />
+Baking in grasshopper:
+<br />
+<img width="200" alt="rhino7" src="https://github.com/user-attachments/assets/d53ce7a2-c8aa-40ae-8d96-b0d5431b005d">
+<br />
+<br />
+<br />
 <ins> Experiment with generating a new basic grasshopper</ins> 
 
 ---
