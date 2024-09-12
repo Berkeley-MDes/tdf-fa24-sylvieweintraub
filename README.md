@@ -1,4 +1,4 @@
-# Report 2 - Week of 9/5/24 #
+# Report 2 - Week of 9/5/24 - I've never touched rhino or grasshopper until today (embarrassing!!)
 
 Overall, I was challenged this week. Grasshopper and Rhino are tools I have never touched, and the last time I tried modeling in a CAD program was in 2016 🥲. To grow these nex skills, I focused on the following 3 assignments:
 
@@ -7,9 +7,12 @@ Overall, I was challenged this week. Grasshopper and Rhino are tools I have neve
   3. Experiment with generating a new basic grasshopper file
 
 <ins> Make a diagram of the example phone stand grasshopping</ins> 
-This process was very interesting! Going through a process step by step and digesting it enough to reframe is a great way to learn. This (paired with 9/9 class with the grasshopper workshop) has been the first tine grasshopper started to sink in. 
+This process was very interesting! Going through a the grasshopper file step by step and digesting it enough to reframe it was a great way for me to learn. This (paired with the 9/9 class grasshopper workshop) has been the first time grasshopper started to sink in. 
 
-To create this diagram, I had both figjam and the grasshopper up on my screen, and I went step by step in grasshopper
+To create this diagram, I had both figjam and the grasshopper up on my screen, and I went step by step in grasshopper, traslating my understadning into figjam. Here it is (double click to see larger)!
+
+<img width="200" alt="Figjam Diagram" src="https://github.com/user-attachments/assets/73fe9a0d-d1ef-4ee9-a9d1-3ebb63cec340">
+
 
 <ins> Experiment with the example phone stand grasshopping file (adjusting parameters and baking)</ins> 
 
@@ -17,7 +20,7 @@ To create this diagram, I had both figjam and the grasshopper up on my screen, a
 
 ---
 
-# Report 1 - Week of 8/29/24 #
+# Report 1 - Week of 8/29/24 - oh no, I'm addicted to the laser cutter
 
 This week I used the green laser cutter in Jacobs hall for the first time and had a blast! I signed up for a 30 minute reservation and ended up staying for over 2.5 hours. I started by cutting funky shapes to make earrings, which took quite a few tried to get sizing correct.
 
