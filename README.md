@@ -51,6 +51,9 @@ Baking in grasshopper:
 <img width="200" alt="rhino7" src="https://github.com/user-attachments/assets/d53ce7a2-c8aa-40ae-8d96-b0d5431b005d">
 <br />
 <br />
+I had a fun time with these parameter changes. What was driving me to make these specific changes was to see how far I could push the limits without "breaking" the phone stand (turning it red). The visual component built into this with the green, yellow, and red gradient is very helpful to visual and understand what is possible/not possible when 3D printing.
+<br />
+<br />
 <br />
 <ins> Experiment with generating a new basic grasshopper</ins> 
 
