@@ -20,6 +20,7 @@ To learn more about the work I did to create these three parts and the project o
 
 [![Computational Design Project Video](https://img.youtube.com/vi/Xm5uk_V9oRE/0.jpg)](https://www.youtube.com/watch?v=Xm5uk_V9oRE)
 
+I speculate computational design will continue to evlove with tools like Adam. We had a demostration of this AI modeling tool in DESINV 200, and it blew my mind. It really seemed huge. I also have been thinking espeically hard about the useage of plastics in 3D printing, and I predict there will be more sustainable materials emerging.
 
 # Report 2 - Week of 9/5/24 - I've never touched rhino or grasshopper until this week (embarrassing!!)
 
