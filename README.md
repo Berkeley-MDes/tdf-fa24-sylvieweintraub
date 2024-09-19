@@ -6,8 +6,15 @@ As for my own personal contributions, I repaid the favors in every way I could--
 
 I am proud of the work I have done so far, including the parts I printed and the video I created for this project. Here are the parts!
 <img width="200" alt="phone stand" src="https://github.com/user-attachments/assets/6b3136e9-5a22-4787-8cce-b1fb5d7b6031">
-<img width="200" alt="circuit board" src="https://github.com/user-attachments/assets/e2ba017d-0ee9-42bd-afb2-d3d1c7b3558c">
+<img width="200" alt="circuit board" src="https://github.com/user-attachments/assets/1f127001-a03b-429f-a2a1-13c95051f901">
 <img width="200" alt="ring holder" src="https://github.com/user-attachments/assets/da530a67-1f1b-43fa-aaf3-57e155e337a5">
+
+To make these, I did not start with hand sketches. I played with Rhino and Grasshopper until my loose vision came to life. In please of sketches, here are the models I "sketeched."
+<br />
+<br />
+<img width="200" alt="phone stand" src="https://github.com/user-attachments/assets/d0ef6f9c-b096-47ff-9923-aff09b9f97ab">
+<img width="200" alt="circuit board" src="https://github.com/user-attachments/assets/22ce492c-060a-4465-a763-6337c107f994">
+<img width="200" alt="ring holder" src="https://github.com/user-attachments/assets/69a31b20-afd4-4b50-bd73-c810ab2a5acd">
 
 To learn more about the work I did to create these three parts and the project outputs overall, please click the video below.
 
