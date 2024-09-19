@@ -1,3 +1,19 @@
+# Report 3 - Week of 9/12/24 - Big week for me, Grasshopper, and 3D printing
+
+I learned A LOT this week. I 3D printed for the first time, learned a lot more about Rhino and Grasshopper, used Rhino to both 3D print and laser cut, and more! This was an especially inspiring week because I feel like I not only pushed myself and grew a ton, I also had so much support for the MDes and Jacobs Hall community. To list a few moments that I was grateful for--one of my classmates walked me through using the Jacob's 3D printers step by step without my even asking, Cody in the makerspace sat with me and took the time to help me truly understand Grasshopper, I watched people in my cohort stay late late into the evening to help other get their work done. The community became strong this week.
+
+As for my own personal contributions, I repaid the favors in every way I could--helping others set up their prints, printing a part when someone had to leave campus, etc.
+
+I am proud of the work I have done so far, including the parts I printed and the video I created for this project. Here are the parts!
+<img width="200" alt="phone stand" src="https://github.com/user-attachments/assets/6b3136e9-5a22-4787-8cce-b1fb5d7b6031">
+<img width="200" alt="circuit board" src="https://github.com/user-attachments/assets/e2ba017d-0ee9-42bd-afb2-d3d1c7b3558c">
+<img width="200" alt="ring holder" src="https://github.com/user-attachments/assets/da530a67-1f1b-43fa-aaf3-57e155e337a5">
+
+To learn more about the work I did to create these three parts and the project outputs overall, please click the video below.
+
+[![Computational Design Project Video](https://img.youtube.com/vi/Xm5uk_V9oRE/0.jpg)](https://www.youtube.com/watch?v=Xm5uk_V9oRE)
+
+
 # Report 2 - Week of 9/5/24 - I've never touched rhino or grasshopper until this week (embarrassing!!)
 
 Overall, I was challenged this week. Grasshopper and Rhino are tools I have never touched, and the last time I tried modeling in a CAD program was in 2016 🥲. To grow these nex skills, I focused on the following 3 assignments:
