@@ -1,4 +1,4 @@
-# Report 4 - Week of 9/19/24 - I love a good ecosystem mapping ☺️
+# Report 4 - Week of 9/19/24 - I love mapping!
 
 Prior to MDes, I spent four years as management consulant in part doing service design work. While I am new to CAD modeling, 3D printing, laser cutting, etc., ecosystem mapping is something I have done many times. In my role, we did many types maps such as ecosystem maps, stakeholder engagement maps, service design blueprints, journey maps, and more. This week, I decided to create a service design blueprint for a personal device ecosystem, specfically the action of using a phone to take a photo.
 
