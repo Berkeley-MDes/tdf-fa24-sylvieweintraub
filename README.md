@@ -53,9 +53,9 @@ Overall, I was challenged this week. Grasshopper and Rhino are tools I have neve
 <ins> Make a diagram of the example phone stand grasshopping</ins> 
 This process was very interesting! Going through a the grasshopper file step by step and digesting it enough to reframe it was a great way for me to learn. This (paired with the 9/9 class grasshopper workshop) has been the first time grasshopper started to sink in. 
 
-To create this diagram, I had both figjam and the grasshopper up on my screen, and I went step by step in grasshopper, traslating my understadning into figjam. Here it is (double click to see larger)!
+To create this diagram, I had both figjam and the grasshopper up on my screen, and I went step by step in grasshopper, traslating my understadning into figjam. Here it is!
 
-<img width="200" alt="Figjam Diagram" src="https://github.com/user-attachments/assets/73fe9a0d-d1ef-4ee9-a9d1-3ebb63cec340">
+<img width="1000" alt="Figjam Diagram" src="https://github.com/user-attachments/assets/73fe9a0d-d1ef-4ee9-a9d1-3ebb63cec340">
 <br />
 <br />
 <br />
