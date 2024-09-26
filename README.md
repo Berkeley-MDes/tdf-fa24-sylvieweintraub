@@ -1,18 +1,18 @@
 # Report 4 - Week of 9/19/24 - I love mapping!
 
-In wrapping up the Computational Design project, I spent most of this week finalizing my report. I put a lot of effort into this, and learned the importance of quality presentations through getting feedback from peers. I feel proud of the report and overall project I submitted for computational design! On Monday we put project 1 behind us and shifted to THE DIGITAL ECOSYSTEM!!
+In wrapping up the Computational Design project, I spent most of this week finalizing my report. I put a lot of effort into this, and learned the importance of quality presentations through getting feedback from peers. I feel proud of the report and overall project I submitted for computational design! 
 
-The first assignment, creating a map of an ecosystem, was particularly fun for me.
+On Monday we put project 1 behind us and shifted to THE DIGITAL ECOSYSTEM!! The first assignment, creating a map of an ecosystem, was particularly fun for me.
 
-Prior to MDes, I spent four years as management consulant in part doing service design work. While I am new to CAD modeling, 3D printing, laser cutting, etc., ecosystem mapping is something I have done many times. In my role, we did many types maps such as ecosystem maps, stakeholder engagement maps, service design blueprints, journey maps, and more. This week, I decided to create a service design blueprint for a personal device ecosystem, specfically the action of using a phone to take a photo.
+Prior to MDes, I spent four years as a management consulant, in part doing service design work. While I am new to CAD modeling, 3D printing, laser cutting, etc., ecosystem mapping is something I have done many times. In my role, we did many types of maps such as ecosystem maps, stakeholder maps, service design blueprints, journey maps, and more. This week, I decided to create a service design blueprint for a personal device ecosystem, specfically the action of using a phone to take a photo.
 
-I love service design blueprints because I think they do a great job showing a user's journey, what they interct with (frontstage) and what happens behind the scenes to enable their experience (backstage) in a clear, comprehendable way. In this blueprint, the arrows indicate connections, and I added icons to specifically call out at which steps information flow and feedback occurs. I also added enabling systems at the bottom which at a very high level gets into the tehcnology within the phone at enables the backstage actions, frontstage actions, and ultimately the user journey.
+I love service design blueprints because I think they do a great job showing a user's journey, what they interct with (frontstage), and what happens behind the scenes to enable their experience (backstage) in a clear, comprehendable way. In this blueprint, the arrows indicate connections, and I added icons to specifically call out at which steps information flow and feedback occurs. I also added enabling systems at the bottom, which at a very high level gets into the technology within the phone that enables the backstage actions, frontstage actions, and ultimately the user journey.
 <br />
 <br />
 <img width="1000" alt="service design blueprint" src="https://github.com/user-attachments/assets/db2a07b5-a70b-4f42-a325-bd55656f10171">
 <br />
 <br />
-If my former work, we embraced ecosystems and used maps to document current states, make predictions and recomendations, define ideal futute states, and more. I speculate more industries will adopt this practice to further whatever work they are doing, if they haven't already done so. 
+In my former work, we embraced ecosystems and used maps to document current states, make predictions and recomendations, define ideal futute states, and more. I speculate more industries will adopt this practice to further whatever work they are doing, if they haven't already done so. 
 
 
 # Report 3 - Week of 9/12/24 - Big week for me, Grasshopper, and 3D printing
