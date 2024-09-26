@@ -2,7 +2,7 @@
 
 Prior to MDes, I spent four years as management consulant in part doing service design work. While I am new to CAD modeling, 3D printing, laser cutting, etc., ecosystem mapping is something I have done many times. In my role, we did many types maps such as ecosystem maps, stakeholder engagement maps, service design blueprints, journey maps, and more. This week, I decided to create a service design blueprint for a personal device ecosystem, specfically the action of using a phone to take a photo.
 
-I love service design blueprints because I think they do a great job showing a user's journey, what they interct with (frontstage) and what happens behind the scenes to enable their experience (backstage) in a clear, comprehendable way. In this blueprint, the arrows indicate connections, and I added icons to specifically call out at which steps information flow and feedback occurs.
+I love service design blueprints because I think they do a great job showing a user's journey, what they interct with (frontstage) and what happens behind the scenes to enable their experience (backstage) in a clear, comprehendable way. In this blueprint, the arrows indicate connections, and I added icons to specifically call out at which steps information flow and feedback occurs. I also added enabling systems at the bottom which at a very high level gets into the tehcnology within the phone at enables the backstage actions, frontstage actions, and ultimately the user journey.
 <br />
 <br />
 <img width="1000" alt="service design blueprint" src="https://github.com/user-attachments/assets/db2a07b5-a70b-4f42-a325-bd55656f10171">
