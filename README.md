@@ -5,6 +5,8 @@ I learned A LOT this week. I 3D printed for the first time, learned a lot more a
 As for my own personal contributions, I repaid the favors in every way I could--helping others set up their prints, printing a part when someone had to leave campus, etc.
 
 I am proud of the work I have done so far, including the parts I printed and the video I created for this project. Here are the parts!
+<br />
+<br />
 <img width="200" alt="phone stand" src="https://github.com/user-attachments/assets/6b3136e9-5a22-4787-8cce-b1fb5d7b6031">
 <img width="200" alt="circuit board" src="https://github.com/user-attachments/assets/1f127001-a03b-429f-a2a1-13c95051f901">
 <img width="200" alt="ring holder" src="https://github.com/user-attachments/assets/da530a67-1f1b-43fa-aaf3-57e155e337a5">
