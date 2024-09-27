@@ -13,6 +13,7 @@ I love service design blueprints because I think they do a great job showing a u
 <img width="1000" alt="service design blueprint" src="https://github.com/user-attachments/assets/db2a07b5-a70b-4f42-a325-bd55656f10171">
 <br />
 <br />
+<h2>Speculations</h2>
 In my former work, we embraced ecosystems and used maps to document current states, make predictions and recomendations, define ideal futute states, and more. I speculate more industries will adopt this practice to further whatever work they are doing, if they haven't already done so. 
 
 
