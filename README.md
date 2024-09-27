@@ -1,5 +1,6 @@
 # Report 4 - Week of 9/19/24 - I love mapping!
 
+<h2>Reflections</h2>
 In wrapping up the Computational Design project, I spent most of this week finalizing my report. I put a lot of effort into this, and learned the importance of quality presentations through getting feedback from peers. I feel proud of the report and overall project I submitted for computational design! 
 
 On Monday we put project 1 behind us and shifted to THE DIGITAL ECOSYSTEM!! The first assignment, creating a map of an ecosystem, was particularly fun for me.
@@ -17,6 +18,7 @@ In my former work, we embraced ecosystems and used maps to document current stat
 
 # Report 3 - Week of 9/12/24 - Big week for me, Grasshopper, and 3D printing
 
+<h2>Reflections</h2>
 I learned A LOT this week. I 3D printed for the first time, learned a lot more about Rhino and Grasshopper, used Rhino to both 3D print and laser cut, and more! This was an especially inspiring week because I feel like I not only pushed myself and grew a ton, I also had so much support for the MDes and Jacobs Hall community. To list a few moments that I was grateful for--one of my classmates walked me through using the Jacob's 3D printers step by step without my even asking, Cody in the makerspace sat with me and took the time to help me truly understand Grasshopper, I watched people in my cohort stay late late into the evening to help other get their work done. The community became strong this week.
 
 As for my own personal contributions, I repaid the favors in every way I could--helping others set up their prints, printing a part when someone had to leave campus, etc.
@@ -39,6 +41,7 @@ To learn more about the work I did to create these three parts and the project o
 
 [![Computational Design Project Video](https://img.youtube.com/vi/Xm5uk_V9oRE/0.jpg)](https://www.youtube.com/watch?v=Xm5uk_V9oRE)
 
+<h2>Speculations</h2>
 I speculate computational design will continue to evlove with tools like Adam. We had a demostration of this AI modeling tool in DESINV 200, and it blew my mind. It really seemed huge. I also have been thinking espeically hard about the useage of plastics in 3D printing, and I predict there will be more sustainable materials emerging.
 
 # Report 2 - Week of 9/5/24 - I've never touched rhino or grasshopper until this week (embarrassing!!)
