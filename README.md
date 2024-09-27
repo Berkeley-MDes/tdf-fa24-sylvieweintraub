@@ -43,6 +43,7 @@ I speculate computational design will continue to evlove with tools like Adam. W
 
 # Report 2 - Week of 9/5/24 - I've never touched rhino or grasshopper until this week (embarrassing!!)
 
+<h2>Reflections</h2>
 Overall, I was challenged this week. Grasshopper and Rhino are tools I have never touched, and the last time I tried modeling in a CAD program was in 2016 🥲. To grow these nex skills, I focused on the following 3 assignments:
 
   1. Make a diagram of the example phone stand grasshopping file
