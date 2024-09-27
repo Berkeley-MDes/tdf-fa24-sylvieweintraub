@@ -124,7 +124,7 @@ Rhino model:
 <br />
 <br />
 <h2>Speculations </h2> 
-Before this class, I had no expereinece in computational design, nor had I ever heard of it. I speculate computational design will become more prevelant in many different industry, not just design and engineering.
+Before this class, I had no expereinece in computational design, nor had I ever heard of it. I speculate computational design will become more prevelant in many different industry, not just design and engineering. Even if the direct tools like grasshopper and Rhino are not relevant in a certain field, as more people learn the impact and mindset of computation design, work may morph into something more robust and module.
 
 ---
 
