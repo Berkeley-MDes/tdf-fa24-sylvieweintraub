@@ -116,6 +116,10 @@ Rhino model:
 <br />
 <img width="200" alt="rhino10" src="https://github.com/user-attachments/assets/147dcd97-eb14-47c6-9f91-76bb4cbc92d1">
 
+<br />
+<br />
+Before this class, I had no expereinece in computational design, nor had I ever heard of it. I speculate computational design will become more prevelant in many different industry, not just design and engineering.
+
 ---
 
 # Report 1 - Week of 8/29/24 - oh no, I'm addicted to the laser cutter
