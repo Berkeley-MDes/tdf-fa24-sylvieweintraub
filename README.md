@@ -118,6 +118,7 @@ Rhino model:
 
 <br />
 <br />
+<h2>Speculations </h2> 
 Before this class, I had no expereinece in computational design, nor had I ever heard of it. I speculate computational design will become more prevelant in many different industry, not just design and engineering.
 
 ---
