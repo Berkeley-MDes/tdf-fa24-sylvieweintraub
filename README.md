@@ -27,6 +27,10 @@ https://github.com/user-attachments/assets/5d516e20-58b1-40ec-9181-5566d68d6baf
 
 https://github.com/user-attachments/assets/bb4b9c1b-d87a-45df-82e3-8270149ada0c
 
+[Publish/Subsribe Introduction](https://github.com/Berkeley-MDes/tdf-fa23-equilet/blob/main/project_demonstrables/particle_workbench/publish_subscribe/README.md)
+
+https://github.com/user-attachments/assets/55efffcd-79d0-4be7-b19f-3593442095f3
+
 
 <br />
 <ins>Experiment with changing variables, names, and processes</ins>
