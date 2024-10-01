@@ -8,12 +8,12 @@ According to TechTarget.com , "a microcontroller is a compact integrated circuit
 Along with the microcontroller, the other technologies I used this week that are new to me include visual studio code, particle, c/c++, an array, breadboards, pressure sensors, oh my!
 
 This week I:
-1. compiled and flahsed all tutorials sent in the slack folder
+1. compiled and flahsed all files sent in the slack folder
 2. compiled, flashed, and wired 3 of the tutorials listed in the wiki
 3. experimented with changing variables, names, and processes
 4. considered how some of the pieces of the ecosystem demo might relate to other systems
 <br />
-<ins>Compile and flash all tutorials sent in the slack folder</ins>
+<ins>Compile and flash all files sent in the slack folder</ins>
 <br />
 <ins>Compile, flash, and wire 3 of the tutorials listed in the wiki</ins>
 <br />
