@@ -1,3 +1,42 @@
+# Report 5 - Week of 9/26/24 - What's a microcontroller?
+
+<h2>Reflections</h2>
+According to TechTarget.com , "a microcontroller is a compact integrated circuit designed to govern a specific operation in an embedded system. A typical microcontroller includes a processor, memory and input/output (I/O) peripherals on a single chip." Wow! I had never heard of a microcontroller, so this was an informative week. I was especially happy with the cohort community since we have such a wide variety of expertise, comfortability, and people (me) who had expereince with very few parts of this work. For example, Kaylee has a background in the hardware and Roopa has a background in software, so they helped me, Sun-Q, and each other all work through the tutorials together.
+<br />
+<img width="500" alt="community problems olving" src="https://github.com/user-attachments/assets/ea3e0018-54c0-42d6-985c-cfb1db3ff072">
+
+Along with the microcontroller, the other technologies I used this week that are new to me include visual studio code, particle, c/c++, an array, breadboards, pressure sensors, oh my!
+
+This week I:
+1. compiled and flahsed all tutorials sent in the slack folder
+2. compiled, flashed, and wired 3 of the tutorials listed in the wiki
+3. experimented with changing variables, names, and processes
+4. considered how some of the pieces of the ecosystem demo might relate to other systems
+<br />
+<ins>Compile and flash all tutorials sent in the slack folder</ins>
+<br />
+<ins>Compile, flash, and wire 3 of the tutorials listed in the wiki</ins>
+<br />
+<br />
+
+[FSR -> LED color](https://github.com/Berkeley-MDes/tdf-fa23-equilet/blob/main/project_demonstrables/particle_workbench/fsr_to_ledcolor/README.md)
+
+https://github.com/user-attachments/assets/5d516e20-58b1-40ec-9181-5566d68d6baf
+
+[Button Send on Change](https://github.com/Berkeley-MDes/tdf-fa23-equilet/blob/main/project_demonstrables/particle_workbench/basic_button_soc/README.md)
+
+https://github.com/user-attachments/assets/bb4b9c1b-d87a-45df-82e3-8270149ada0c
+
+
+<br />
+<ins>Experiment with changing variables, names, and processes</ins>
+<br />
+<ins>Consider how some of the pieces of the ecosystem demo might relate to other systems</ins> 
+
+
+<h2>Speculations</h2>
+Speculations include complete sentences or paragraphs and discuss future directions for tools and work, with logical reasoning and evidence. Bonus: includes a relevant news/industry item with an image, link, and reference.
+
 # Report 4 - Week of 9/19/24 - I love mapping!
 
 <h2>Reflections</h2>
