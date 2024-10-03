@@ -4,7 +4,7 @@
 According to TechTarget.com , "a microcontroller is a compact integrated circuit designed to govern a specific operation in an embedded system. A typical microcontroller includes a processor, memory and input/output (I/O) peripherals on a single chip." Wow! I had never heard of a microcontroller, so this was an informative week. 
 <br />
 <br />
-I was especially happy with the cohort community since we have such a wide variety of expertise, comfortability, and people (me) who had expereince with very few parts of this work. For example, Kaylee has a background in the hardware and Roopa has a background in software, so they helped me, Sun-Q, and each other all work through the tutorials together.
+I was especially happy with the cohort community since we have such a wide variety of expertise, comfortability, and people (me) who had experience with very few parts of this work. For example, Kaylee has a background in the hardware and Roopa has a background in software, so they helped me, Sun-Q, and each other all work through the tutorials together.
 <br />
 <img width="300" alt="community problems solving" src="https://github.com/user-attachments/assets/ea3e0018-54c0-42d6-985c-cfb1db3ff072">
 
