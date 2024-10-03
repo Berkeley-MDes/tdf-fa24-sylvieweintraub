@@ -1,9 +1,12 @@
 # Report 5 - Week of 9/26/24 - What's a microcontroller?
 
 <h2>Reflections</h2>
-According to TechTarget.com , "a microcontroller is a compact integrated circuit designed to govern a specific operation in an embedded system. A typical microcontroller includes a processor, memory and input/output (I/O) peripherals on a single chip." Wow! I had never heard of a microcontroller, so this was an informative week. I was especially happy with the cohort community since we have such a wide variety of expertise, comfortability, and people (me) who had expereince with very few parts of this work. For example, Kaylee has a background in the hardware and Roopa has a background in software, so they helped me, Sun-Q, and each other all work through the tutorials together.
+According to TechTarget.com , "a microcontroller is a compact integrated circuit designed to govern a specific operation in an embedded system. A typical microcontroller includes a processor, memory and input/output (I/O) peripherals on a single chip." Wow! I had never heard of a microcontroller, so this was an informative week. 
 <br />
-<img width="500" alt="community problems solving" src="https://github.com/user-attachments/assets/ea3e0018-54c0-42d6-985c-cfb1db3ff072">
+<br />
+I was especially happy with the cohort community since we have such a wide variety of expertise, comfortability, and people (me) who had expereince with very few parts of this work. For example, Kaylee has a background in the hardware and Roopa has a background in software, so they helped me, Sun-Q, and each other all work through the tutorials together.
+<br />
+<img width="300" alt="community problems solving" src="https://github.com/user-attachments/assets/ea3e0018-54c0-42d6-985c-cfb1db3ff072">
 
 Along with the microcontroller, the other technologies I used this week that are new to me include visual studio code, particle, c/c++, an array, breadboards, pressure sensors, oh my!
 
@@ -15,11 +18,18 @@ This week I:
 <br />
 <ins>Compile and flash all files sent in the slack folder</ins>
 <br />
+After the class where we started working through these files together, I went home and tried to load, compile, and flash the remaining files on my own. I did plug in the hardware and test the flashes too which made it very reactive and fun. The first few times I used visual studio in my own I fumbled around with the terminals, particle, and using hte proper settings. Once I figured it out and repeated the process for a few files, the patterns started to set in and it became more natural. This is one of the first setups I wired on my breadboard:
+<br />
+<img width="300" alt="breadboard with button and LED" src="https://github.com/user-attachments/assets/0ca16a98-6bce-43d4-893f-e684babb2d3e">
+<br />
+<br />
 <ins>Compile, flash, and wire 3 of the tutorials listed in the wiki</ins>
 <br />
 <br />
 
 [FSR -> LED color](https://github.com/Berkeley-MDes/tdf-fa23-equilet/blob/main/project_demonstrables/particle_workbench/fsr_to_ledcolor/README.md)
+
+This was the first one I completed and it got me so exicted to continue! I didn't know it was so simple to have a pressure-sensative system and it makes me want to learn more about what is happening technilogically within the pressure sensor. While I have not worked with breadboards or small circuits in the past, I did a short stint at a manufacturing company where they wired up large panel boards. Because of this, I was immediately comfortable with the hardware diagrams. The only question I came across during this tutorial was with the LED. Of the 4 leads (this is a term I looked up and don't know if I'm using right), how do I know where the longest one goes? A classmate helped me figure this out and it worked on the first try! See video below.
 
 https://github.com/user-attachments/assets/5d516e20-58b1-40ec-9181-5566d68d6baf
 
@@ -35,11 +45,17 @@ https://github.com/user-attachments/assets/55efffcd-79d0-4be7-b19f-3593442095f3
 <br />
 <ins>Experiment with changing variables, names, and processes</ins>
 <br />
+What I realized through this is changing names doesnt actually do anything other than break the code :'). Because coding is very new to me, it took a while to understand what a variable is, that the name really doesnt matter and I can change it to anything I want AS LONG AS it's changed to the new name everywhere in the code. I also played with changing delay times and other numeric values to see how it impacted the code. I clearly am out of my depth when it comes to overall coding and creating working functions through code. However, by playing with the existing code provided to us, I am starting to understand the basics of each part of the code does and controls.
+<br />
+<br />
 <ins>Consider how some of the pieces of the ecosystem demo might relate to other systems</ins> 
-
+<br />
+In general this prompt confused me a bit, but I think the point is to think about how the photon, code, and hardware are an ecosystem similar to the ecosystem I mapped last week (taking a photo on a phone). All of these technological systems include software, hardware, and interaction points for a user, which creates an ecosystem of inforamtion flow and feedback. By loading the files sent and going through the tutorials on the wiki, I am creating essicially a very very basic version of the complex ecosystem found around a computer or phone. Very cool!
+<br />
+<br />
 
 <h2>Speculations</h2>
-Speculations include complete sentences or paragraphs and discuss future directions for tools and work, with logical reasoning and evidence. Bonus: includes a relevant news/industry item with an image, link, and reference.
+I predict in the future more professional and careers will crosspaths with the ecosystems of technology. Before TDF, I had never worked with a microcontroller or ever knew what it was. If I had though, I would have a much more informed view of my interactions with technology ecosystems. This important information is not accessible to most people, but I predict more will seek out as technology continues to run our world.
 
 # Report 4 - Week of 9/19/24 - I love mapping!
 
