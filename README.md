@@ -29,17 +29,27 @@ After the class where we started working through these files together, I went ho
 
 [FSR -> LED color](https://github.com/Berkeley-MDes/tdf-fa23-equilet/blob/main/project_demonstrables/particle_workbench/fsr_to_ledcolor/README.md)
 
-This was the first one I completed and it got me so exicted to continue! I didn't know it was so simple to have a pressure-sensative system and it makes me want to learn more about what is happening technilogically within the pressure sensor. While I have not worked with breadboards or small circuits in the past, I did a short stint at a manufacturing company where they wired up large panel boards. Because of this, I was immediately comfortable with the hardware diagrams. The only question I came across during this tutorial was with the LED. Of the 4 leads (this is a term I looked up and don't know if I'm using right), how do I know where the longest one goes? A classmate helped me figure this out and it worked on the first try! See video below.
+This was the first one I completed and it got me so exicted to continue! I didn't know it was so simple to have a pressure-sensative system and it makes me want to learn more about what is happening technilogically within the pressure sensor. While I have not worked with breadboards or small circuits in the past, I did a short stint at a manufacturing company where they wired up large panel boards. Because of this, I was immediately comfortable with the hardware diagrams. The only question I came across during this tutorial was with the LED. Of the 4 leads (this is a term I looked up and don't know if I'm using right), how do I know where the longest one goes? A classmate helped me figure this out and it worked on the first try! See video below of the pressure changing the color of the LED.
 
 https://github.com/user-attachments/assets/5d516e20-58b1-40ec-9181-5566d68d6baf
 
 [Button Send on Change](https://github.com/Berkeley-MDes/tdf-fa23-equilet/blob/main/project_demonstrables/particle_workbench/basic_button_soc/README.md)
 
+Next I worked on the button send on change. This was a ver simple hardware set up which I had no roadblocks with. I also had no roadblocks loading in the code, compiling, flashing, and using the serial monitor. As shown in the video below, when the button is pressed, the interaction is logged as a state change as indicated on the serial monitor as well as in the event traffic section on the particle console.
+
 https://github.com/user-attachments/assets/bb4b9c1b-d87a-45df-82e3-8270149ada0c
 
 [Publish/Subsribe Introduction](https://github.com/Berkeley-MDes/tdf-fa23-equilet/blob/main/project_demonstrables/particle_workbench/publish_subscribe/README.md)
 
+This is the tutorial I struggled most with. The publish part worked great! I published to my particle console no problem with the code provided. See video below.
+
 https://github.com/user-attachments/assets/55efffcd-79d0-4be7-b19f-3593442095f3
+
+The sibscribe part I could not figure out msotly because I dont know what I am supposed to be looking for to understand "sucess." I tried to look at the information published on my own photon, as well as on another of my class mates. I think it ended up working? I added Roopa's photon to see activty on my console and I think that means it was successful (see screenshot below), but I am still trying to figure out what the code does.
+
+<img width="500" alt="Roopa's photon added to my producst" src="https://github.com/user-attachments/assets/f5af8cd8-e8fe-487d-b7ed-f40069023b9b">
+<br />
+<br />
 
 
 <br />
