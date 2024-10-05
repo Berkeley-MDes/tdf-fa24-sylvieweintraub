@@ -1,4 +1,4 @@
-# Report 6 - Week of 10/3 - ADD NAME
+# Report 6 - Week of 10/3/24 - ADD NAME
 
 <h2>Reflections</h2>
 
