@@ -1,3 +1,28 @@
+# Report 6 - Week of 10/3 - ADD NAME
+
+<h2>Reflections</h2>
+
+Homework: Building your first system part 3: Stemma Modules - Due Monday 2024/10/07
+
+Solder the stemma QT interface board
+Download the project files and open them in Visual Studio Code (File -> open folder or see here), then in the VS Code command palette, type Particle: Configure Project for Device and follow the prompts.
+Your assignment is to experiment with the two stemma-based sensor projects and document your findings.
+Possible alterations:
+The demo firmware doesn't do much, aside from outputting log data to the serial port.
+Can you map these values to other processes in the firmware code? provide examples
+What would that look like? Can you implement it now, with what you know already? What sort of feasibility experiments are in the way?
+If you're comfortable with that, how could you
+send the values from your sensors to other output components?
+share those values with a partner in the class, using Particle.publish() and Particle.subscribe() ?
+Document your design/considerations as a diagram in your report.
+Notes:
+If you are stuck in Visual Studio Code with issues surrounding compilation, please reach out to the TDF Teaching team for assistance!
+Errata: Check out the difference between qwiic and stemma. Can you spot it?
+
+<h2>Speculations</h2>
+
+
+
 # Report 5 - Week of 9/26/24 - What's a microcontroller?
 
 <h2>Reflections</h2>
