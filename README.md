@@ -1,6 +1,14 @@
-# Report 6 - Week of 10/3/24 - ADD NAME
+# Report 6 - Week of 10/3/24 - Tough week.
 
 <h2>Reflections</h2>
+This was a very hard week for me for a number of reasons. The first is I had a personal emergency that required a significant amount of time I would typically spent on school work spent elsewhere. The second is I gave feedback about this course to the leadership team which ended up taking up quite a bit more mental energy and space than anticipated. For that reason, this was not best week in TDF.
+
+Starting the week off, I worked on the homework that was due on Monday. Over the weekened I soldered the stemma QT interface board. I had never soldered before, so I had significant help from my classmates (mostly Kaylee Jung - huge shoutout Kaylee!!).
+
+<img width="300" alt="community problems solving" src="https://github.com/user-attachments/assets/ea3e0018-54c0-42d6-985c-cfb1db3ff072">
+
+I downloaded the files, opened them in Visual Studio Code, and typed the commands outlined for us in the instructions. I was unable to spend much time experiementing before the Monday class (personal reasons), but I am proud of what I accomlished nonetheless.
+
 
 Homework: Building your first system part 3: Stemma Modules - Due Monday 2024/10/07
 
