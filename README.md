@@ -1,35 +1,33 @@
-# Report 6 - Week of 10/3/24 - Tough week.
+# Report 6 - Week of 10/3/24 - Tough week, but I'm really excited about Project 2
 
 <h2>Reflections</h2>
 This was a very hard week for me for a number of reasons. The first is I had a personal emergency that required a significant amount of time I would typically spent on school work spent elsewhere. The second is I gave feedback about this course to the leadership team which ended up taking up quite a bit more mental energy and space than anticipated. For that reason, this was not best week in TDF.
 
 Starting the week off, I worked on the homework that was due on Monday. Over the weekened I soldered the stemma QT interface board. I had never soldered before, so I had significant help from my classmates (mostly Kaylee Jung - huge shoutout Kaylee!!).
 
-<img width="300" alt="community problems solving" src="https://github.com/user-attachments/assets/ea3e0018-54c0-42d6-985c-cfb1db3ff072">
+<img width="300" alt="homework" src="https://github.com/user-attachments/assets/5db191a6-d222-47cc-afb6-253543a51b27">
+<img width="300" alt="homework" src="https://github.com/user-attachments/assets/b75c2760-94dd-4e00-a509-76034ed9b4a2">
+<img width="300" alt="homework" src="https://github.com/user-attachments/assets/e38103e6-1800-46ce-930f-6b7baf1efec5">
 
-I downloaded the files, opened them in Visual Studio Code, and typed the commands outlined for us in the instructions. I was unable to spend much time experiementing before the Monday class (personal reasons), but I am proud of what I accomlished nonetheless.
+I downloaded the files, opened them in Visual Studio Code, and typed the commands outlined for us in the instructions. I was unable to spend much time experiementing before the Monday class (personal reasons), but I am proud of what I accomplished nonetheless.
 
+The second part of the week was spent creating my project 2 group, brainstorming our idea, addressing a quick turn to submit our group and topic idea, and creating a proposal for our project.
 
-Homework: Building your first system part 3: Stemma Modules - Due Monday 2024/10/07
+Roopa, Hanna, and I will be creating THE PRODUCTIVITY PLANT.
 
-Solder the stemma QT interface board
-Download the project files and open them in Visual Studio Code (File -> open folder or see here), then in the VS Code command palette, type Particle: Configure Project for Device and follow the prompts.
-Your assignment is to experiment with the two stemma-based sensor projects and document your findings.
-Possible alterations:
-The demo firmware doesn't do much, aside from outputting log data to the serial port.
-Can you map these values to other processes in the firmware code? provide examples
-What would that look like? Can you implement it now, with what you know already? What sort of feasibility experiments are in the way?
-If you're comfortable with that, how could you
-send the values from your sensors to other output components?
-share those values with a partner in the class, using Particle.publish() and Particle.subscribe() ?
-Document your design/considerations as a diagram in your report.
-Notes:
-If you are stuck in Visual Studio Code with issues surrounding compilation, please reach out to the TDF Teaching team for assistance!
-Errata: Check out the difference between qwiic and stemma. Can you spot it?
+The goal of The Productivity Plant project is to understand the functionality of the Photon 2 microcontroller, explore technologies that track motion, noise and time, and communicate information to users using OLED screens and servo motors. This productivity enhancement and monitoring distributed digital ecosystem will utilize the cloud to allow for a network of Photons to communicate with one another. 
+
+The Productivity Plant’s purpose is to assist users in engaging in their work and study time as efficiently as possible, specifically while in “deep work”. Users will be able to set a time goal for how long they would like to have an uninterrupted deep working session. The Productivity Plant will track how distracted the user gets through a smart broach that will pick up noise levels and movement. If the user is getting too distracted, they will be warned through the plant “wilting” and having a “sad” symbol or message written out on the OLED screen. The plant will return to “happy” when the user returns to productive working. After the allotted time for “deep work”, the Productivity Plant will alert users that time is up, encouraging users to get up from their seat and move around for approximately 5 minutes to promote sustainable productivity.
+
+This functionality is inspired by the Pomodoro method, a studying and productivity method developed in the late 1980s. Research studies conducted on the Pomodoro method have concluded that by participating in the method while working, individuals would have longer work sessions, as well as mood and efficiency benefits when compared to taking self-regulated breaks. 
+
+Here is a littel sketch to illustrate how it may work (from a user perspective, not including technology).
+
+<img width="500" alt="Productivity Plant Sketch" src="https://github.com/user-attachments/assets/7099e825-07d5-4f6f-a077-4f8383ef7d60">
 
 <h2>Speculations</h2>
 
-
+I speculate that with more people like my cohort of MDes classmates that know how to integrate different technology componemts, more people will understand the art of the possible and design more innovative things. Rigth now, so many people have ideas but are held back by not understanding if something is possible, and if so, how to get started. I think great things will come our of classes like TDF from the students that are eager to build things that can change the world.
 
 # Report 5 - Week of 9/26/24 - What's a microcontroller?
 
