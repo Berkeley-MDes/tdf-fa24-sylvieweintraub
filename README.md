@@ -1,4 +1,4 @@
-# Report 7 - Week of 10/3/24 - In need of the productivity plant while in the process of making the productivity plant
+# Report 7 - Week of 10/10/24 - In need of the productivity plant while in the process of making the productivity plant
 
 <h2>Reflections</h2>
 Another challenging week working on Project 2, the productivity plant. I really love the purpose of this project, and it's a lot to take on in the time allotted. My team functions really well together, even working through challenging tasks together. Each team member has identified a field they currently have little or no experience with and is acting as lead in that field to grow our skills and take on a more difficult challenge. The team roles are as follows.
