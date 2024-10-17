@@ -11,10 +11,29 @@ As fabrication lead, this week I took on a combination of modeling, 3D printing,
 
 For the prodictivity plant project, there are two products that need to be created: the plant and the wearable sound and motion monitor. This week I focused on the plant.
 
-The plant has 3 main components:
+The plant product has 3 main fabrication components:
+- The pot
+- The plant frame
+- The plant exterior
 
--
-With each member bringing different prior expertise to the group, we all assist each of the three roles outlined, as well as individually and collectively document and report the process.
+<ins> The Pot </ins> 
+<br />
+For the pot, I learned and used Fusion360 for the first time! I am very proud I pushed myself to try something new. Originally I was planning to use Rhino since I leared it in the last project, however, I know Fusion is another industry standard so I wanted to take this on as one of my Axolotl level challenges.
+
+The model includes a 1) classic shaped pot for the Photon and breadboard to sit in with a hole for the power cord and 2) a platform for the plant to sit on with a hole for the wires.
+Here is the plant pot model:
+<br />
+<img width="300" alt="plant pot model" src="https://github.com/user-attachments/assets/294f91a8-4da1-4534-9a0c-5bad82f87b10">
+
+Here is the platform model:
+<br />
+<img width="300" alt="platform model" src="https://github.com/user-attachments/assets/294f91a8-4da1-4534-9a0c-5bad82f87b10">
+
+Here is the finished print:
+<br />
+<img width="300" alt="finsihed plant pot print" src="https://github.com/user-attachments/assets/5db191a6-d222-47cc-afb6-253543a51b27">
+
+
 
 
 My team has been functioning
