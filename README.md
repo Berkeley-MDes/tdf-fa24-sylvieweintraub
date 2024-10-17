@@ -23,7 +23,7 @@ For the pot, I learned and used Fusion360 for the first time! I am very proud I 
 The model includes a 1) classic shaped pot for the Photon and breadboard to sit in with a hole for the power cord and 2) a platform for the plant to sit on with a hole for the wires.
 Here is the plant pot model:
 <br />
-<img width="300" alt="plant pot model" src="https://github.com/user-attachments/assets/294f91a8-4da1-4534-9a0c-5bad82f87b10">
+<img width="300" alt="plant pot model" src="https://github.com/user-attachments/assets/d45d96db-d17d-4505-b6ec-9841e31cf5b9">
 
 Here is the platform model:
 <br />
