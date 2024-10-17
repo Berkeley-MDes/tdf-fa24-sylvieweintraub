@@ -1,3 +1,27 @@
+# Report 7 - Week of 10/3/24 - In need of the productivity plant while in the process of making the productivity plant
+
+<h2>Reflections</h2>
+Another challenging week working on Project 2, the productivity plant. I really love the purpose of this project, and it's a lot to take on in the time allotted. My team functions really well together, even working through challenging tasks together. Each team member has identified a field they currently have little or no experience with and is acting as lead in that field to grow our skills and take on a more difficult challenge. The team roles are as follows.
+
+- Hanna Khoury - Axolotl - Software/Code Lead
+- Roopa Ramanujam  - Axolotl - Electrical Hardware Lead
+- Sylvie Weintraub - Axolotl - Fabrication Lead
+
+As fabrication lead, this week I took on a combination of modeling, 3D printing, getting very crafty, and working with Roopa to figure out the hardware components I will need to design with.
+
+For the prodictivity plant project, there are two products that need to be created: the plant and the wearable sound and motion monitor. This week I focused on the plant.
+
+The plant has 3 main components:
+
+-
+With each member bringing different prior expertise to the group, we all assist each of the three roles outlined, as well as individually and collectively document and report the process.
+
+
+My team has been functioning
+
+<h2>Speculations</h2>
+
+
 # Report 6 - Week of 10/3/24 - Tough week, but I'm really excited about Project 2
 
 <h2>Reflections</h2>
