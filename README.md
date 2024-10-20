@@ -61,7 +61,6 @@ Our team has decided we want a crochet plant exterior. I do not know how to croc
 <br />
 <br />
 <h2>Speculations</h2>
-<br />
 For this project, we created three very distinct roles; code, hardware, fabricate. I can already tell these roles do not have clean serparations betweemn them. For example, as fabrication lead, I need to work with hardware to make sure I model with all componenets in mind. Hardware needs to work with code to test the componenets, and code needs to in turn with work both fabrication and hardware to make sure functionality of the parts work with the physical design. I speculate that tghe best teams are those that have people with expertise but can speak the language of all specialties on the project.
 
 # Report 6 - Week of 10/3/24 - Tough week, but I'm really excited about Project 2
