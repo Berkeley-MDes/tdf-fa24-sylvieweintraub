@@ -1,3 +1,8 @@
+# Report 8 - Week of 10/17/24 - Project 2 complete!
+<h2>Reflections</h2>
+
+<h2>Speculations</h2>
+
 # Report 7 - Week of 10/10/24 - In need of the productivity plant while in the process of making the productivity plant
 
 <h2>Reflections</h2>
