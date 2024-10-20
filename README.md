@@ -9,9 +9,13 @@ Another challenging week working on Project 2, the productivity plant. I really 
 
 As fabrication lead, this week I took on a combination of modeling, 3D printing, getting very crafty, and working with Roopa to figure out the hardware components I will need to design with.
 
-For the prodictivity plant project, there are two products that need to be created: the plant and the wearable sound and motion monitor. This week I focused on the plant.
+For the prodictivity plant project, there are two products that need to be created: the plant and the wearable sound and motion monitor. First, I helped Roopa by creating sketches of these two products. 
+<br />
+<img width="400" alt="plant drawing" src="https://github.com/user-attachments/assets/c2407cad-41a9-4a47-a57b-ae8f9c1448e1">
+<br />
+<img width="400" alt="wearable drawing" src="https://github.com/user-attachments/assets/22d412df-7233-4fae-bc0f-5538e105d513">
 
-The plant product has 3 main fabrication components:
+Next, I focused on the plant fabrication. The plant product has 3 main fabrication components:
 - The pot
 - The plant frame
 - The plant exterior
@@ -24,29 +28,41 @@ For the pot, I learned and used Fusion360 for the first time! I am very proud I 
 The model includes a 1) classic shaped pot for the Photon and breadboard to sit in with a hole for the power cord and 2) a platform for the plant to sit on with a hole for the wires.
 Here is the plant pot model:
 <br />
-<img width="300" alt="plant pot model" src="https://github.com/user-attachments/assets/d45d96db-d17d-4505-b6ec-9841e31cf5b9">
+<img width="400" alt="plant pot model" src="https://github.com/user-attachments/assets/d45d96db-d17d-4505-b6ec-9841e31cf5b9">
 <br />
 <br />
 Here is the platform model:
 <br />
-<img width="300" alt="platform model" src="https://github.com/user-attachments/assets/294f91a8-4da1-4534-9a0c-5bad82f87b10">
+<img width="400" alt="platform model" src="https://github.com/user-attachments/assets/294f91a8-4da1-4534-9a0c-5bad82f87b10">
 <br />
 <br />
-Here is the finished print:
+Here is the finished pot print:
 <br />
-<img width="300" alt="finsihed plant pot print" src="https://github.com/user-attachments/assets/5db191a6-d222-47cc-afb6-253543a51b27">
+<img width="400" alt="finsihed plant pot print" src="https://github.com/user-attachments/assets/c87211ce-8f96-43bd-a825-899ebcf66c59">
+<br />
+<br />
+Here is the finished platform prints with adjusted size holes. One fits the servo and one only fits wires:
+<br />
+<img width="400" alt="finsihed platform print" src="https://github.com/user-attachments/assets/14f9ef76-6a1a-4128-bf31-ebbfe0ec5816">
 <br />
 <br />
 <ins> The Plant Frame </ins> 
 <br />
+I then modeled and printed the frame of the plant that will hold the shape and attach to the servo motors and OLED screen.
+<br />
+<img width="400" alt="plant frame" src="https://github.com/user-attachments/assets/6a5492bb-036f-4a36-9378-bad98b6e4d99">
+<br />
 <br />
 <ins> The Plant Exterior </ins> 
-Our team has decided we want a crochet plant exterior. I do not know how to crochet, and I have not started on this yet.
-
-My team has been functioning
-
+<br />
+Our team has decided we want a crochet plant exterior. I do not know how to crochet, and I have not started on this yet. When I modeled the parts, however, I used inspiration I found online to help generally line up how I want the exterior to look and feel. Here are all the parts modeled plus the exterior idea/inspiration.
+<br />
+<img width="400" alt="full model" src="https://github.com/user-attachments/assets/645966cc-4c32-43c9-a31d-f9a6082e075d">
+<br />
+<br />
 <h2>Speculations</h2>
-
+<br />
+For this project, we created three very distinct roles; code, hardware, fabricate. I can already tell these roles do not have clean serparations betweemn them. For example, as fabrication lead, I need to work with hardware to make sure I model with all componenets in mind. Hardware needs to work with code to test the componenets, and code needs to in turn with work both fabrication and hardware to make sure functionality of the parts work with the physical design. I speculate that tghe best teams are those that have people with expertise but can speak the language of all specialties on the project.
 
 # Report 6 - Week of 10/3/24 - Tough week, but I'm really excited about Project 2
 
