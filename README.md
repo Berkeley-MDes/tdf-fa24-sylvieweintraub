@@ -1,17 +1,18 @@
 # Report 8 - Week of 10/17/24 - Project 2 complete!
 <h2>Reflections</h2>
-This week I accomplished the following:
-- Re-printed the plant frame and pot lid to fit all of the hardware
-- Attached the printed skeleton arms to the servo
-- Learned to crochet
-- Crocheted the enture exterior or plant
-- Trouble shooted hardware with Roopa
-- Tested hardware with Roopa
-- Debugged code with Roopa and Hanna
-- Scripted our video
-- Recorded audio for video
-- Edited the full video
-
+This week I accomplished the following:<br />
+- Re-printed the plant frame and pot lid to fit all of the hardware<br />
+- Attached the printed skeleton arms to the servo<br />
+- Learned to crochet<br />
+- Crocheted the enture exterior or plant<br />
+- Trouble shooted hardware with Roopa<br />
+- Tested hardware with Roopa<br />
+- Debugged code with Roopa and Hanna<br />
+- Scripted our video<br />
+- Recorded audio for video<br />
+- Edited the full video<br />
+<br />
+<br />
 Here is the video I created for the Productivity Plant porject:
 <br />
 <br />
