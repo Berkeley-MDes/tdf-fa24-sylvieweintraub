@@ -1,7 +1,28 @@
 # Report 8 - Week of 10/17/24 - Project 2 complete!
 <h2>Reflections</h2>
+This week I accomplished the following:
+- Re-printed the plant frame and pot lid to fit all of the hardware
+- Attached the printed skeleton arms to the servo
+- Learned to crochet
+- Crocheted the enture exterior or plant
+- Trouble shooted hardware with Roopa
+- Tested hardware with Roopa
+- Debugged code with Roopa and Hanna
+- Scripted our video
+- Recorded audio for video
+- Edited the full video
+
+Here is the video I created for the Productivity Plant porject:
+[![Digital Ecosystem Project Video](https://img.youtube.com/vi/Xm5uk_V9oRE/0.jpg)](https://youtu.be/K41SBc-6Cxw)
 
 <h2>Speculations</h2>
+These are the sepculations I wrote for the video, which stand:
+
+Throughout this project, we spent a lot of time troubleshooting, debugging, and creating many iterations of our work. For example, we printed the frame of the plant and plant pot 3 times before perfecting it for use with the circuit components. We also dedicated a few days to testing and debugging the code.
+
+We speculate that there will be continued evolution in AI tools to make the process of developing digital ecosystems better the first time, therefore increasing efficiency during the iteration and troubleshooting phases.
+
+Additionally, so much technology being created puts emphasis on being clean, minimalistic, and ulta-futuristic. Some examples are the Tesla cybertruck and apple vision pro headset. We speculate there will be a general shift away from the futuristic design aesthetic back to 80s and 90s inspired approachable, huggable tech.
 
 # Report 7 - Week of 10/10/24 - In need of the productivity plant while in the process of making the productivity plant
 
