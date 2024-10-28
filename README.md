@@ -1,3 +1,19 @@
+# Report 9 - Week of 10/24/24 - On to the next
+<h2>Reflections</h2>
+This week I completed the report for Project 2, The Productivity Plant. Through this report process, I realized the progress I have made in naturally documenting my work and experiences. As I was compiling the information for the report, it ended up being surprisingly efficient to gather my thougths, reflections, and photos to convery the work I accomplished. I was also excited to see so much thoughtful feedback from the peer form. I feel like the cohort was an amazing community throughout this project, and everyone was excited to see how successful the groups were in their videos.
+
+Now that we are starting project 3, I have done the following to prepar for the LLM module:
+
+- Example 1
+- Example 2
+- Example 3
+- Example 4
+
+I have never worked with LLMs so I am trying to do all the preparation I can to be ready to complete this quick sprint.
+
+<h2>Speculations</h2>
+I have never worked with LLMs, however, I have some experience using chatGPT to customize a bot to write like me. Through some very simple but somewhat tedious steps, it's easy to create a chatGPT bot to write in the style of any person. I specultate this type of bot assitant will become more and more common, and kids will eventually grow up learning to use AI as a resource rather than needing to become incredible writers on their own.
+
 # Report 8 - Week of 10/17/24 - Project 2 complete!
 <h2>Reflections</h2>
 This week I accomplished the following:<br />
