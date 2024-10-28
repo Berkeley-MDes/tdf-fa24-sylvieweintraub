@@ -12,7 +12,7 @@ This week I accomplished the following:<br />
 - Recorded audio for video<br />
 - Edited the full video<br />
 <br />
-<br />
+
 It was a slightly tough week balancing hte dymanics of a group project, but overall I learned a lot and grew as a technologist and designer.
 <br />
 <br />
