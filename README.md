@@ -13,6 +13,9 @@ This week I accomplished the following:<br />
 - Edited the full video<br />
 <br />
 <br />
+It was a slightly tough week balancing hte dymanics of a group project, but overall I learned a lot and grew as a technologist and designer.
+<br />
+<br />
 Here is the video I created for the Productivity Plant porject:
 
 [![Digital Ecosystem Project Video](https://github.com/user-attachments/assets/d620a08e-68c5-42f1-85c0-273de0b6b2e9)](https://www.youtube.com/watch?v=K41SBc-6Cxw)
