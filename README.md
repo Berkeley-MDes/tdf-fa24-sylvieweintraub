@@ -4,10 +4,10 @@ This week I completed the report for Project 2, The Productivity Plant. Through 
 
 Now that we are starting project 3, I have done the following to prepar for the LLM module:
 
-- Example 1
-- Example 2
-- Example 3
-- Example 4
+- Set up my ZeroWidth account
+- Followed tutorials to at least make your first thing input+LLM+output.
+- Reviewed project deliverables
+- Reviewed project examples
 
 I have never worked with LLMs so I am trying to do all the preparation I can to be ready to complete this quick sprint.
 
