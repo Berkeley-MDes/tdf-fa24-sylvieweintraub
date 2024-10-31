@@ -21,6 +21,9 @@ I went through each demo to the best of my ability, but the links to the demos w
 
 This was frustrating for me becasue we only have one more week to complete this stuff. But I think given everything, I might have this project my triceratops.
 
+Pretty unrealited, but I started thinking about what my final project will be. I sketched it out, but will take time to exaplain it more in future weekly reports.
+<img width="400" alt="Final Project Brainstorming" src="https://github.com/user-attachments/assets/5dc23e5a-4a68-471a-a1e5-0098a6e2f788">
+
 <h2>Speculations</h2>
 I have never worked with LLMs, however, I have some experience using chatGPT to customize a bot to write like me. Through some very simple but somewhat tedious steps, it's easy to create a chatGPT bot to write in the style of any person. I specultate this type of bot assitant will become more and more common, and kids will eventually grow up learning to use AI as a resource rather than needing to become incredible writers on their own.
 
