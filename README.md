@@ -16,6 +16,7 @@ While experimenting with ZeroWidth, I was very impressed by the features that he
 <img width="400" alt="Explain Node" src="https://github.com/user-attachments/assets/6fcf81ca-9558-4cc0-8b1c-b91918adcc83">
 
 I went through each demo to the best of my ability, but the links to the demos were all broken for me. See photo below:
+<br />
 <img width="400" alt="Error Page" src="https://github.com/user-attachments/assets/55da6047-b8e1-4a06-84fa-15d9d457acf1">
 
 This was frustrating for me becasue we only have one more week to complete this stuff. But I think given everything, I might have this project my triceratops.
