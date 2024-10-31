@@ -22,6 +22,7 @@ I went through each demo to the best of my ability, but the links to the demos w
 This was frustrating for me becasue we only have one more week to complete this stuff. But I think given everything, I might have this project my triceratops.
 
 Pretty unrealited, but I started thinking about what my final project will be. I sketched it out, but will take time to exaplain it more in future weekly reports.
+<br />
 <img width="400" alt="Final Project Brainstorming" src="https://github.com/user-attachments/assets/5dc23e5a-4a68-471a-a1e5-0098a6e2f788">
 
 <h2>Speculations</h2>
