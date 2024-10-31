@@ -11,6 +11,15 @@ Now that we are starting project 3, I have done the following to prepar for the 
 
 I have never worked with LLMs so I am trying to do all the preparation I can to be ready to complete this quick sprint.
 
+While experimenting with ZeroWidth, I was very impressed by the features that help new users understand what's going on. For example, when working with a node, the interface gives you an option to have the node explained. See photo below.
+<br />
+<img width="400" alt="Explain Node" src="https://github.com/user-attachments/assets/6fcf81ca-9558-4cc0-8b1c-b91918adcc83">
+
+I went through each demo to the best of my ability, but the links to the demos were all broken for me. See photo below:
+<img width="400" alt="Error Page" src="https://github.com/user-attachments/assets/55da6047-b8e1-4a06-84fa-15d9d457acf1">
+
+This was frustrating for me becasue we only have one more week to complete this stuff. But I think given everything, I might have this project my triceratops.
+
 <h2>Speculations</h2>
 I have never worked with LLMs, however, I have some experience using chatGPT to customize a bot to write like me. Through some very simple but somewhat tedious steps, it's easy to create a chatGPT bot to write in the style of any person. I specultate this type of bot assitant will become more and more common, and kids will eventually grow up learning to use AI as a resource rather than needing to become incredible writers on their own.
 
