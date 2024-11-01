@@ -363,7 +363,7 @@ This week I used the green laser cutter in Jacobs hall for the first time and ha
 <img width="200" alt="Many Earring Attempts" src="https://github.com/user-attachments/assets/c8adf529-bd5c-4ed8-bec0-810030c7cea7">
 <br />
 Next, I moved on to creating a print for my partner's birthday. I found quickly that printing photos that have enough contrast is difficult and takes a lot of trial and error. The photo on the left was my first attempt with standard etch settings. The right photo is my second and final attempt after I used lightroom to adjust contrast using masks to make the subjects pop and increased the power of the laser cutter etching by 20%. Both prints are ~8x10 inches and took ~30 minutes to print.
-
+<br />
 <img width="200" alt="Print Attempt 1" src="https://github.com/user-attachments/assets/18f2689d-935d-4eb7-8e01-f66436ef42db">
 <img width="200" alt="Print Attempt 2" src="https://github.com/user-attachments/assets/1debc453-2899-40e3-a4b2-08bdbcd352cb">
 
