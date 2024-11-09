@@ -1,13 +1,15 @@
 # Report 9 - Week of 10/24/24 - Donald Trump is our 47th president
 <h2>Reflections</h2>
 This was a shit week where I did what I had to for survivial. I completed the the LLM project this week and had to do triceritops for my sanity. The LLM project was cool, I just wish I had more time and energy to learn more.
-
+<br />
+<br />
 Here are the diagrams I created:
 <br />
 <img width="400" alt="diagram 1" src="https://github.com/user-attachments/assets/6ef63172-b1af-476d-ac7c-410ee4b1b496">
 <br />
 <img width="400" alt="diagram 2" src="https://github.com/user-attachments/assets/23459293-062f-477e-b0ab-ac5bc3bb8f08">
-
+<br />
+<br />
 Here is the most complex ZeroWidth model I created:
 <br />
 <img width="400" alt="ZeroWidth" src="https://github.com/user-attachments/assets/5486cae7-ca79-4bfb-9376-863f8f201669">
