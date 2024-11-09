@@ -1,3 +1,20 @@
+# Report 9 - Week of 10/24/24 - Donald Trump is our 47th president
+<h2>Reflections</h2>
+This was a shit week where I did what I had to for survivial. I completed the the LLM project this week and had to do triceritops for my sanity. The LLM project was cool, I just wish I had more time and energy to learn more.
+
+Here are the diagrams I created:
+<br />
+<img width="400" alt="diagram 1" src="https://github.com/user-attachments/assets/6ef63172-b1af-476d-ac7c-410ee4b1b496">
+<br />
+<img width="400" alt="diagram 2" src="https://github.com/user-attachments/assets/23459293-062f-477e-b0ab-ac5bc3bb8f08">
+
+Here is the most complex ZeroWidth model I created:
+<br />
+<img width="400" alt="ZeroWidth" src="https://github.com/user-attachments/assets/5486cae7-ca79-4bfb-9376-863f8f201669">
+
+<h2>Speculations</h2>
+I predict this country will not be able to socially handle 4 more years with a felon running our country with the house, senate, and supreme court on his side. I also think he will put restrictions on use of AI tools like the ones we built in this project, or he will use emerging technologies to hurt a lot of people. Really sad week.
+
 # Report 9 - Week of 10/24/24 - On to the next
 <h2>Reflections</h2>
 This week I completed the report for Project 2, The Productivity Plant. Through this report process, I realized the progress I have made in naturally documenting my work and experiences. As I was compiling the information for the report, it ended up being surprisingly efficient to gather my thougths, reflections, and photos to convery the work I accomplished. I was also excited to see so much thoughtful feedback from the peer form. I feel like the cohort was an amazing community throughout this project, and everyone was excited to see how successful the groups were in their videos.
