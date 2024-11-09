@@ -1,3 +1,9 @@
+# Report 11 - Week of 11/7/24 - XX
+<h2>Reflections</h2>
+
+
+<h2>Speculations</h2>
+
 # Report 10 - Week of 10/31/24 - Donald Trump is our 47th president
 <h2>Reflections</h2>
 This was a shit week where I did what I had to for survivial. I completed the the LLM project this week and had to do triceritops for my sanity. The LLM project was cool, I just wish I had more time and energy to learn more.
