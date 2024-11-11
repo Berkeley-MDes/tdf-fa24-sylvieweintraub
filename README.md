@@ -1,7 +1,8 @@
 # Report 11 - Week of 11/7/24 - Project 4 here I come
 <h2>Reflections</h2>
 This week I completed my project 3 - SylvieBot project report and thought more about what I want to do for Project 4. I have been talking a lot with Roopa and we recently added Kaden to the project, as well. We are getting excited about the direction of the project. Here is my rough sketch of where we currently are at in our thought process.
-
+<br />
+<br />
 <img width="400" alt="Final Project Brainstorming" src="https://github.com/user-attachments/assets/5dc23e5a-4a68-471a-a1e5-0098a6e2f788">
 
 <h2>Speculations</h2>
