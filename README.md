@@ -1,8 +1,11 @@
-# Report 11 - Week of 11/7/24 - XX
+# Report 11 - Week of 11/7/24 - Project 4 here I come
 <h2>Reflections</h2>
+This week I completed my project 3 - SylvieBot project report and thought more about what I want to do for Project 4. I have been talking a lot with Roopa and we recently added Kaden to the project, as well. We are getting excited about the direction of the project. Here is my rough sketch of where we currently are at in our thought process.
 
+<img width="400" alt="Final Project Brainstorming" src="https://github.com/user-attachments/assets/5dc23e5a-4a68-471a-a1e5-0098a6e2f788">
 
 <h2>Speculations</h2>
+I speculate this nect project will be the best of all projects. I am excited to learn even more about microcontrollers through Arduino I also speculate learning Arduino will be much more useful from a industry-standard perspective.
 
 # Report 10 - Week of 10/31/24 - Donald Trump is our 47th president
 <h2>Reflections</h2>
