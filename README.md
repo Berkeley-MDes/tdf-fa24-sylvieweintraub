@@ -3,7 +3,7 @@
 This week I completed my project 3 - SylvieBot project report and thought more about what I want to do for Project 4. I have been talking a lot with Roopa and we recently added Kaden to the project, as well. We are getting excited about the direction of the project. Here is my rough sketch of where we currently are at in our thought process.
 <br />
 <br />
-<img width="400" alt="Final Project Brainstorming" src="https://github.com/user-attachments/assets/5dc23e5a-4a68-471a-a1e5-0098a6e2f788">
+<img width="400" alt="Final Project Brainstorming" src="https://github.com/user-attachments/assets/1045f22d-a052-4a77-9461-1dada45b2c06">
 
 <h2>Speculations</h2>
 I speculate this nect project will be the best of all projects. I am excited to learn even more about microcontrollers through Arduino I also speculate learning Arduino will be much more useful from a industry-standard perspective.
