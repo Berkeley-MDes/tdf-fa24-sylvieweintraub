@@ -1,7 +1,8 @@
 # Report 12 - Week of 11/14/24 - We are stressed
 <h2>Reflections</h2>
-The cohort is doing the best they can this week and I appreciate the effort. Honestly, having to compelte our prototype by the Monday after thanksgiving si stressful and unfair to those that are traveling to spend the holiday with family. On top of this deadline, starting thanksgiving day (the thursday before the deadline), our cohort no longer has access to the studio microfab printers. I am many classmates I have talked to are stressed about having access to what we need to suceed with such a short timeline for this project. It would have been more respectful to us and out learning experience if we were given more time with the preoject requirements so we were able to accurately order the materials we actually needed earlier. Because this is how I see it from a schedule and roadblock perspective:
-
+The cohort is doing the best they can this week and I appreciate the effort. Honestly, having to complete our prototype by the Monday after thanksgiving is stressful and unfair to those that are traveling to spend the holiday with family. On top of this deadline, starting thanksgiving day (the thursday before the deadline), our cohort no longer has access to the studio microfab printers. I and many classmates I have talked to are stressed about having access to what we need to suceed with such a short timeline for this project. It would have been more respectful to us and our learning experience if we were given more time with the preoject requirements so we were able to accurately order the materials we actually needed earlier. This is how I see it from a schedule and roadblock perspective:
+<br />
+<br />
 - Thursday, Nov 21: Proposal Due
 ...
 4 days, but no materials have come yet
@@ -15,12 +16,14 @@ The cohort is doing the best they can this week and I appreciate the effort. Hon
 1 holiday day (should be spent with family if desired), 2 days of working time
 ...
 - Monday, Dec 3: full working prototype
-
-To me, this feels unreasonable. I wish we werer afforded more time with the necessary materials and inforamtion to execute this project in a way that empowers us to truley learn rather than scramble
+<br />
+<br />
+To me, this feels unreasonable. I wish we were afforded more time with the necessary materials and inforamtion to execute this project in a way that empowers us to truley learn rather than scramble.
 
 I also have been reflecting on this course as a whole and have some suggestions (I have also sent these directly to Sudhu).
 - videos cannot be put into our portfolios as is because there is lots of class-specific information (challenge level most prominently, but I also would not included diagrammatic analysis or speculations in my portfolio)
   - I suggest the rubric is changed to include guidelines on how to create a video that is portfolio ready
+  - Diagrams, specualtions, and challenge levels are included in the report, that should be sufficient
 - weekly reports will not be used or looked at after the semester and people view it as tedious work
   - I suggest weekly submissions are framed as "imagine you are creating a portfolio entry at the end of the project. Think about objectives, role, skills, process steps, challenges overcome, etc. Write a weekly update that will contribute to this entry." and maybe even have the first section in the report be called "executive summary" and encourage that to be a portfolio-ready summary of the project
 
