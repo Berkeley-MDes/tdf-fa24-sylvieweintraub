@@ -1,3 +1,36 @@
+# Report 12 - Week of 11/14/24 - We are stressed
+<h2>Reflections</h2>
+The cohort is doing the best they can this week and I appreciate the effort. Honestly, having to compelte our prototype by the Monday after thanksgiving si stressful and unfair to those that are traveling to spend the holiday with family. On top of this deadline, starting thanksgiving day (the thursday before the deadline), our cohort no longer has access to the studio microfab printers. I am many classmates I have talked to are stressed about having access to what we need to suceed with such a short timeline for this project. It would have been more respectful to us and out learning experience if we were given more time with the preoject requirements so we were able to accurately order the materials we actually needed earlier. Because this is how I see it from a schedule and roadblock perspective:
+
+- Thursday, Nov 21: Proposal Due
+...
+4 days, but no materials have come yet
+... 
+- Monday, Nov 25: Proof of concept, aka a working part of our project to prove we can do it (how if we dont have the specific materials we ordered?)
+...
+1 day of working time, 2 holiday days (should be spent with family if desired)
+...
+- Thursday, Nov 28: lose access to 4 out of the 10 3D printers for the reamainder of the semester
+...
+1 holiday day (should be spent with family if desired), 2 days of working time
+...
+- Monday, Dec 3: full working prototype
+
+To me, this feels unreasonable. I wish we werer afforded more time with the necessary materials and inforamtion to execute this project in a way that empowers us to truley learn rather than scramble
+
+I also have been reflecting on this course as a whole and have some suggestions (I have also sent these directly to Sudhu).
+- videos cannot be put into our portfolios as is because there is lots of class-specific information (challenge level most prominently, but I also would not included diagrammatic analysis or speculations in my portfolio)
+  - I suggest the rubric is changed to include guidelines on how to create a video that is portfolio ready
+- weekly reports will not be used or looked at after the semester and people view it as tedious work
+  - I suggest weekly submissions are framed as "imagine you are creating a portfolio entry at the end of the project. Think about objectives, role, skills, process steps, challenges overcome, etc. Write a weekly update that will contribute to this entry." and maybe even have the first section in the report be called "executive summary" and encourage that to be a portfolio-ready summary of the project
+
+
+<h2>Speculations</h2>
+I speculate this class will need a refresh to ensure the next cohort is getting what they need out of the material. The skills that come out of this class are very important, and I fear I only learned a fraction of what I wanted to.
+
+Here is a the same sketch I made last week, posted again to fulfil the rubric requirements for this post:
+<img width="400" alt="Final Project Brainstorming" src="https://github.com/user-attachments/assets/1045f22d-a052-4a77-9461-1dada45b2c06">
+
 # Report 11 - Week of 11/7/24 - Project 4 here I come
 <h2>Reflections</h2>
 This week I completed my project 3 - SylvieBot project report and thought more about what I want to do for Project 4. I have been talking a lot with Roopa and we recently added Kaden to the project, as well. We are getting excited about the direction of the project. Here is my rough sketch of where we currently are at in our thought process.
