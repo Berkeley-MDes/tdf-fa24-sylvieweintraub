@@ -56,6 +56,8 @@ Here is a the same sketch I made last week, posted again to fulfil the rubric re
 <img width="400" alt="Final Project Brainstorming" src="https://github.com/user-attachments/assets/1045f22d-a052-4a77-9461-1dada45b2c06">
 <br />
 <br />
+Here is a photo of the mirror materials I ordered for this project to fulfil the rubric requirements for this post:
+<img width="400" alt="Amazon Order" src="https://github.com/user-attachments/assets/eb5fd97a-135e-4620-aac0-e4a9e956d954">
 <br />
 
 # Report 11 - Week of 11/7/24 - Project 4 here I come
