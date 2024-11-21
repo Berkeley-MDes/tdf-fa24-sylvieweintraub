@@ -24,10 +24,12 @@ I also have been reflecting on this course as a whole and have some suggestions 
 - weekly reports will not be used or looked at after the semester and people view it as tedious work
   - I suggest weekly submissions are framed as "imagine you are creating a portfolio entry at the end of the project. Think about objectives, role, skills, process steps, challenges overcome, etc. Write a weekly update that will contribute to this entry." and maybe even have the first section in the report be called "executive summary" and encourage that to be a portfolio-ready summary of the project
 
-
+<br />
+<br />
 <h2>Speculations</h2>
 I speculate this class will need a refresh to ensure the next cohort is getting what they need out of the material. The skills that come out of this class are very important, and I fear I only learned a fraction of what I wanted to.
-
+<br />
+<br />
 Here is a the same sketch I made last week, posted again to fulfil the rubric requirements for this post:
 <img width="400" alt="Final Project Brainstorming" src="https://github.com/user-attachments/assets/1045f22d-a052-4a77-9461-1dada45b2c06">
 
