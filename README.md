@@ -41,6 +41,7 @@ I also have been reflecting on this course as a whole and have some suggestions 
   <br />
   - Diagrams, specualtions, and challenge levels are included in the report, that should be sufficient
   <br />
+  <br />
 - weekly reports will not be used or looked at after the semester and people view it as tedious work
 <br />
   - I suggest weekly submissions are framed as "imagine you are creating a portfolio entry at the end of the project. Think about objectives, role, skills, process steps, challenges overcome, etc. Write a weekly update that will contribute to this entry." and maybe even have the first section in the report be called "executive summary" and encourage that to be a portfolio-ready summary of the project
