@@ -31,7 +31,8 @@ The cohort is doing the best they can this week and I appreciate the effort. Hon
 <br />
 <br />
 To me, this feels unreasonable. I wish we were afforded more time with the necessary materials and inforamtion to execute this project in a way that empowers us to truley learn rather than scramble.
-
+<br />
+<br />
 I also have been reflecting on this course as a whole and have some suggestions (I have also sent these directly to Sudhu).
 - videos cannot be put into our portfolios as is because there is lots of class-specific information (challenge level most prominently, but I also would not included diagrammatic analysis or speculations in my portfolio)
   - I suggest the rubric is changed to include guidelines on how to create a video that is portfolio ready
