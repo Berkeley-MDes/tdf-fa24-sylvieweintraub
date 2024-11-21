@@ -53,7 +53,9 @@ I speculate this class will need a refresh to ensure the next cohort is getting 
 <br />
 Here is a the same sketch I made last week, posted again to fulfil the rubric requirements for this post:
 <img width="400" alt="Final Project Brainstorming" src="https://github.com/user-attachments/assets/1045f22d-a052-4a77-9461-1dada45b2c06">
-
+<br />
+<br />
+<br />
 # Report 11 - Week of 11/7/24 - Project 4 here I come
 <h2>Reflections</h2>
 This week I completed my project 3 - SylvieBot project report and thought more about what I want to do for Project 4. I have been talking a lot with Roopa and we recently added Kaden to the project, as well. We are getting excited about the direction of the project. Here is my rough sketch of where we currently are at in our thought process.
