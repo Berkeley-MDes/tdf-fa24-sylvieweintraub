@@ -4,17 +4,29 @@ The cohort is doing the best they can this week and I appreciate the effort. Hon
 <br />
 <br />
 - Thursday, Nov 21: Proposal Due
+<br />
 ...
+<br />
 4 days, but no materials have come yet
+<br />
 ... 
+<br />
 - Monday, Nov 25: Proof of concept, aka a working part of our project to prove we can do it (how if we dont have the specific materials we ordered?)
+<br />
 ...
+<br />
 1 day of working time, 2 holiday days (should be spent with family if desired)
+<br />
 ...
+<br />
 - Thursday, Nov 28: lose access to 4 out of the 10 3D printers for the reamainder of the semester
+<br />
 ...
+<br />
 1 holiday day (should be spent with family if desired), 2 days of working time
+<br />
 ...
+<br />
 - Monday, Dec 3: full working prototype
 <br />
 <br />
