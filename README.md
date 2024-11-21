@@ -1,4 +1,4 @@
-# Report 12 - Week of 11/14/24 - We are stressed
+# Report 12 - Week of 11/14/24 - we are not given what we need to succeed
 <h2>Reflections</h2>
 The cohort is doing the best they can this week and I appreciate the effort. Honestly, having to complete our prototype by the Monday after thanksgiving is stressful and unfair to those that are traveling to spend the holiday with family. On top of this deadline, starting thanksgiving day (the thursday before the deadline), our cohort no longer has access to the studio microfab printers. I and many classmates I have talked to are stressed about having access to what we need to suceed with such a short timeline for this project. It would have been more respectful to us and our learning experience if we were given more time with the preoject requirements so we were able to accurately order the materials we actually needed earlier. This is how I see it from a schedule and roadblock perspective:
 <br />
