@@ -56,6 +56,7 @@ Here is a the same sketch I made last week, posted again to fulfil the rubric re
 <br />
 <br />
 <br />
+
 # Report 11 - Week of 11/7/24 - Project 4 here I come
 <h2>Reflections</h2>
 This week I completed my project 3 - SylvieBot project report and thought more about what I want to do for Project 4. I have been talking a lot with Roopa and we recently added Kaden to the project, as well. We are getting excited about the direction of the project. Here is my rough sketch of where we currently are at in our thought process.
