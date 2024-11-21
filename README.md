@@ -68,10 +68,12 @@ This week I completed my project 3 - SylvieBot project report and thought more a
 <img width="400" alt="Final Project Brainstorming" src="https://github.com/user-attachments/assets/1045f22d-a052-4a77-9461-1dada45b2c06">
 
 Here are the materials I ordered:
+<br />
 <img width="400" alt="Materials" src="https://github.com/user-attachments/assets/51e30768-a396-4df7-b53b-9e22decbd991">
-
+<br />
 <img width="400" alt="Materials" src="https://github.com/user-attachments/assets/15f3f831-814e-404d-b685-f1b2b210c3f1">
-
+<br />
+<br />
 <h2>Speculations</h2>
 I speculate this nect project will be the best of all projects. I am excited to learn even more about microcontrollers through Arduino I also speculate learning Arduino will be much more useful from a industry-standard perspective.
 
