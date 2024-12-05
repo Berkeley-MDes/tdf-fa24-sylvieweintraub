@@ -1,3 +1,22 @@
+# Report 13 - Weeks of 11/21/24 and 11/28/24 - I love our project
+<h2>Reflections</h2>
+I am really glad we advocated to use Arduino because I am starting to finally love creating digital ecosystems. The Arduino coding software is intuitive, and I finally feel like I am learning things that will be applicable to the remaining time I have I have in MDes. As a gear up to take on my first TA role under Chris Meyers next semester, I am becoming increasingly gratful to be getting more basic design expereince with Fusion360 (rather than Rhino/Grasshopper) and Arduino (rather than Photon). These are the more basic things I needed to learn before being thrown into the Photon work in order to make project 2 more educational.
+
+I am really proud of what I and my team has accomplished so far.
+
+I personally was in charge of:
+- getting all 16 servos working off of one Arduino
+- incorperating the proximity sensor into the ecosystem
+- writing test code for both of these tasks
+
+All was a great success! Here is a video of it all working.
+
+[Servo Ecosystem](https://github.com/user-attachments/assets/5ebd2ee6-dc0d-4efe-b732-c08d08fcc485)
+
+
+<h2>Speculations</h2>
+I speculate that there are jobs in my future that I may finally be able to apply what I am learning in this class to. As the design industry shifts towards emerging technologies, understanding the basics of digital ecosystems is important. I finally feel like I am learning them.
+
 # Report 12 - Week of 11/14/24 - we are not given what we need to succeed
 <h2>Reflections</h2>
 The cohort is doing the best they can this week and I appreciate the effort. Honestly, having to complete our prototype by the Monday after thanksgiving is stressful and unfair to those that are traveling to spend the holiday with family. On top of this deadline, starting thanksgiving day (the thursday before the deadline), our cohort no longer has access to the studio microfab printers. I and many classmates I have talked to are stressed about having access to what we need to suceed with such a short timeline for this project. It would have been more respectful to us and our learning experience if we were given more time with the preoject requirements so we were able to accurately order the materials we actually needed earlier. This is how I see it from a schedule and roadblock perspective:
@@ -19,7 +38,7 @@ The cohort is doing the best they can this week and I appreciate the effort. Hon
 <br />
 ...
 <br />
-- Thursday, Nov 28: lose access to 4 out of the 10 3D printers for the reamainder of the semester
+- Thursday, Nov 28: lose access to 4 out of the 10 3D printers for the reamainder of the semester, and lose access to the remainding 6 printers Thursday-Sunday
 <br />
 ...
 <br />
